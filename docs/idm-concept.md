@@ -162,7 +162,7 @@ Even though anyone can implement its own IDM Wallet UI application, there is a n
 
 #### Reference UI diagrams
 
-User-journeys diagram:
+User flow diagram:
 
 <img src="https://raw.githubusercontent.com/ipfs-shipyard/pm-idm/master/docs/images/diagram_user-journeys.png" alt="" width="1000">
 
